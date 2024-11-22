@@ -8,7 +8,7 @@ Log Archive Tool
 
 This is a simple command-line tool that archives log files by compressing them into a .tar.gz format and storing them in a separate directory. This tool is especially useful for cleaning up old logs while keeping them for future reference in a compressed format.
 This project was created for `Roadmaps.sh`.
-(https://roadmap.sh/projects/server-stats)
+https://roadmap.sh/projects/log-archive-tool
 
 ## Requirements ##
 The tool should:
